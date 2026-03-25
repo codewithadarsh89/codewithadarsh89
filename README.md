@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Adarsh Pandey 👋
 
-<!--
-**codewithadarsh89/codewithadarsh89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who Am I
 
-Here are some ideas to get you started:
+I am a B.Tech student passionate about Data Analytics and Machine Learning. I enjoy working with data, building meaningful insights, and continuously learning new technologies to grow in the tech field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+* Data Analysis projects
+* Machine Learning fundamentals
+* Building dashboards and real-world data solutions
+
+## 🛠️ Tools & Skills
+
+* Excel
+* SQL
+* Python
+* Power BI
+* GitHub
+
+## 📫 How to Reach Me
+
+* Email: [workwithadarsh@gmail.com](mailto:workwithadarsh@gmail.com)
+* LinkedIn: [www.linkedin.com/in/adarsh-pandey1527](http://www.linkedin.com/in/adarsh-pandey1527)
+
+---
+
+⭐ Always learning, building, and improving.
