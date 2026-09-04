@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <a href="https://www.hackerearth.com/@itxadarsh04">
-    <img src="https://img.shields.io/badge/HackerEarth-Profile-2C3454?style=for-the-badge&logo=hackerearth" alt="HackerEarth"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2C3454?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
   </a>
 </p>
 
