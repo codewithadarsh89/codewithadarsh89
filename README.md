@@ -17,7 +17,7 @@
   <a href="mailto:workwithadarsh89@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://www.hackererank.com/@itxadarsh04">
+  <a href="https://www.hackerrank.com/@itxadarsh04">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2C3454?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
   </a>
 </p>
