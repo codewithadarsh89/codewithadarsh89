@@ -77,7 +77,7 @@ and n8n Automation** while building practical projects.
 
 ### 🚚 Supply Chain & Logistics Dashboard
 
-An end-to-end Power BI project focused on analyzing supply chain
+End-to-end Power BI project focused on analyzing supply chain
 and logistics operations through interactive dashboards and
 business KPIs.
 
@@ -89,7 +89,7 @@ business KPIs.
 
 ### 📦 Inventory Management System
 
-An Excel-based inventory management project designed to organize
+Excel-based inventory management project designed to organize
 inventory data, monitor stock levels, manage vendors and orders,
 and support day-to-day inventory analysis.
 
@@ -108,24 +108,6 @@ and support day-to-day inventory analysis.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=codewithadarsh89&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="Adarsh's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithadarsh89&layout=compact&theme=github_dark&hide_border=true"
-    alt="Adarsh's Top Languages"
-  />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -135,15 +117,10 @@ and support day-to-day inventory analysis.
   />
 </p>
 
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithadarsh89&theme=github-compact&hide_border=true"
-    alt="Adarsh's Contribution Activity Graph"
-  />
+  <a href="https://github.com/codewithadarsh89">
+    <b>View my GitHub profile and contribution activity →</b>
+  </a>
 </p>
 
 ---
